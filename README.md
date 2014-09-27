@@ -2,6 +2,10 @@
 
 Due to popular demand. This is WIP so expect breaking changes!
 
+# bower Installation
+
+<code>bower install angular-ui-slider</code>
+
 ## Requirements
 
 - JQuery
